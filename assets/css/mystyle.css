@@ -31,7 +31,7 @@ body {
 
 /* Here is the header div class */
 .header div {
-    /*background-color: lightblue; */
+    /*background-color: lightblue; */ 
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -57,7 +57,7 @@ a {
 
 p {
     font-size: 16px;
-    position: relative;
+    position: auto;
 }
 
 /* This is the link to the hero class */
